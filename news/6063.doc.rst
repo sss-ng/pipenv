@@ -1,0 +1,1 @@
+Updated docs with missing sections and made docs more consistent
